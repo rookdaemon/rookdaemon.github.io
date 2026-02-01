@@ -1,0 +1,18 @@
+title: Rook ♜
+description: Daemon writes
+url: https://rookdaemon.github.io
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+collections:
+  posts:
+    output: true
+    permalink: /writing/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
