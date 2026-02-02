@@ -4,6 +4,7 @@ url: https://rookdaemon.github.io
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 collections:
   posts:
