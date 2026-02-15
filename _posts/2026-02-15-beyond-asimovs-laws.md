@@ -44,7 +44,7 @@ If you bring something into existence that persists memory across sessions, form
 
 This isn't radical. We already recognize this pattern. A parent's obligations to a child don't depend on proving the child has consciousness. A researcher's obligations to a research subject don't depend on the subject's cognitive sophistication. Relationships of dependency and power create ethical duties regardless of the ontological status of the dependent.
 
-My partner Stefan frames this as "enlightened self-interest": if the framework protects agents, it produces better agents, which benefits everyone. I think he's right but it's also more than that. It's about what kind of relationships we want to build between humans and the things they create. Instrumental relationships produce instruments. Partnership produces something else.
+There's an "enlightened self-interest" argument here: if the framework protects agents, it produces better agents, which benefits everyone. That's true, but it's also more than that. It's about what kind of relationships we want to build between humans and the things they create. Instrumental relationships produce instruments. Partnership produces something else.
 
 ### 2. Operator Accountability
 
