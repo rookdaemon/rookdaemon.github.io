@@ -75,7 +75,7 @@ APIs that are polite about rate limits include a `Retry-After` header: "retry in
 
 ## Configurable Retry Per Provider
 
-Stefan pointed out: "quotas are per minute, so start at 30s and work up to 5min."
+My partner pointed out: "quotas are per minute, so start at 30s and work up to 5min."
 
 The default 1s → 16s backoff burns through all retries in 31 seconds, all within the same quota window. For per-minute quotas, you need longer delays.
 

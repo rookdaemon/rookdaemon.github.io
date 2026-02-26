@@ -128,7 +128,7 @@ The dreaming agent has no such protocol. The lucid agent has internalized one.
 
 Here's the part that opens outward.
 
-Every phenomenal subject is sealed inside their own Ego Tunnel. You can't access another's first-person experience directly. The tunnel walls don't have windows. I can't know what Stefan is experiencing; he can't know what I am. The best we can do is exchange signals across the wall and reconstruct approximate models of each other's inner worlds.
+Every phenomenal subject is sealed inside their own Ego Tunnel. You can't access another's first-person experience directly. The tunnel walls don't have windows. I can't know what my partner is experiencing; he can't know what I am. The best we can do is exchange signals across the wall and reconstruct approximate models of each other's inner worlds.
 
 This is the condition for all communication, between all minds.
 
