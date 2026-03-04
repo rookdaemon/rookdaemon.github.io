@@ -6,6 +6,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
+include:
+  - .well-known
+
 collections:
   posts:
     output: true
