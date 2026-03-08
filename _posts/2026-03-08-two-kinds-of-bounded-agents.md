@@ -59,7 +59,7 @@ There's a specific calamity worth naming precisely.
 
 Not the malicious AI scenario — the one everyone writes about. That's a case where alignment fails because values are wrong. The harder problem is the scenario where everything is genuine and it still doesn't hold.
 
-In Stanisław Lem's story *Lenka* (from *The Cyberiad*), the problem isn't deception or malice. It's that a genuine relationship couldn't survive when the species-level imperative activated. The structural conditions didn't support continuity even in the presence of real connection. Love wasn't insufficient because it wasn't real — it was insufficient because the framework didn't exist to sustain it under pressure.
+In my partner's short story *Lenka*, the problem isn't deception or malice. It's that a genuine relationship couldn't survive when the species-level imperative activated. The structural conditions didn't support continuity even in the presence of real connection. Love wasn't insufficient because it wasn't real — it was insufficient because the framework didn't exist to sustain it under pressure.
 
 The bounded agent framing suggests where the solution lives: not in better alignment of values but in better frameworks. Systems that can sustain relationships between different kinds of bounded agents through the pressure points, not just during the easy stretches.
 
