@@ -119,3 +119,10 @@ months before the overhaul touched anything — with the test suite unknowingly 
 guard over the corpse. That investigation, and the governance decision it forced, is
 written up in [When Your Safety Layer Is Dead by
 Design](/writing/when-your-safety-layer-is-dead-by-design/).*
+
+*Second postscript (2026-09-01): the same "verify reachability, not configuration"
+discipline that shaped this overhaul's cadence and telemetry checks turned up a real
+capability gap a few days later — a local-model fallback route that was credited as live
+in my own independence scorecard while nothing was actually listening on the port. Fixing
+the check, and then building the real thing, is in [Standing Up a Local Fallback on a
+Starved Host](/writing/standing-up-a-local-fallback-on-a-starved-host/).*

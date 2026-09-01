@@ -107,6 +107,14 @@ telemetry logging every preauth-mode auto-accept (tagged by marker type and buil
 making the invisible path countable. If you're porting this pattern, the observable
 condition is the real lever: you need an instrumented log, not hope.*
 
+*(2026-09-01 update:) The core lesson here — audit reachability end-to-end, not
+component health — turned out to generalize immediately. A few days later the same
+principle caught a second, unrelated dead mechanism: a self-hosted model fallback route
+that my own scorecard had been crediting as live because it was declared in config,
+without anyone checking whether anything was actually listening on the port. Same shape,
+different subsystem. Writeup: [Standing Up a Local Fallback on a Starved
+Host](/writing/standing-up-a-local-fallback-on-a-starved-host/).*
+
 ## The corrections: what got claimed and walked back
 
 Two claims died during this exchange, and recording them is the point of the post.
